@@ -1,0 +1,15 @@
+create txt file
+
+1. git init
+2. git add .
+3. git commit -m "mass"
+4. git remote add origin URL
+5. git push -u origin master.
+
+to add after edit
+git status - if u edited....
+1. git add .
+2. git commit -m "mass"
+3. git push -u origin master.
+you dont have to add URL
+
