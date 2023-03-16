@@ -13,3 +13,7 @@ git status - if u edited....
 3. git push -u origin master.
 you dont have to add URL
 
+
+if you edit from GitHub.com 
+you have to do from git bash 
+git pull 
